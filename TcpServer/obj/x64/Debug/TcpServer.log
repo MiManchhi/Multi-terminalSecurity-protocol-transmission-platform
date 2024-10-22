@@ -1,0 +1,27 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.220.134”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  TcpServer.cpp
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.cpp(17,12): error : default argument given for parameter 1 of ‘TcpSocket* TcpServer::acceptConn(int)’
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.h(14,20): message : previous specification in ‘TcpSocket* TcpServer::acceptConn(int)’ here
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.h(14,20): message :    14 |         TcpSocket* acceptConn(int timeout = TIMEOUT);
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.h(14,20): message :       |                    ^~~~~~~~~~
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.cpp(20,1): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.cpp(20,1): warning :    20 | }
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.cpp(20,1): warning :       | ^
+  TcpSocket.cpp
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(23,5): error : default argument given for parameter 3 of ‘int TcpSocket::connectServer(std::string, short unsigned int, int)’
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.h(23,13): message : previous specification in ‘int TcpSocket::connectServer(std::string, short unsigned int, int)’ here
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(63,13): error : default argument given for parameter 1 of ‘std::string TcpSocket::recvMsg(int)’
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.h(27,21): message : previous specification in ‘std::string TcpSocket::recvMsg(int)’ here
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(66,1): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(66,1): warning :    66 | }
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(66,1): warning :       | ^
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(68,5): error : default argument given for parameter 2 of ‘int TcpSocket::sendMsg(std::string, int)’
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.h(25,13): message : previous specification in ‘int TcpSocket::sendMsg(std::string, int)’ here
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(72,1): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(72,1): warning :    72 | }
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(72,1): warning :       | ^

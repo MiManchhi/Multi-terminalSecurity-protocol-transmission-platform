@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{01406a7d-fb15-4911-84eb-5a2c2ecc23cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{d9238661-c5e7-45e4-b760-a134a5f6a93b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TcpServer.cpp" />
+    <ClCompile Include="TcpSocket.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TcpServer.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TcpSocket.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
