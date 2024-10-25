@@ -14,9 +14,40 @@ TcpServer::~TcpServer()
 {
 
 }
-TcpSocket* TcpServer::acceptConn(int timeout = TIMEOUT)
+TcpSocket* TcpServer::acceptConn(int timeout)
 {
-
+	//超时检测
+	int ret = 0;
+	if (timeout > 0)
+	{
+		//将监听文件描述符放进集合
+		fd_set set;
+		FD_ZERO(&set);
+		FD_SET(sock_lfd, &set);
+		struct timeval outtime{timeout,0};
+		//select监测文件描述符是否可读
+		do
+		{
+			ret = select(sock_lfd + 1, &set, NULL, NULL, &outtime);
+		} while (ret < 0 && errno == EINTR);
+		if (ret <= 0)
+		{
+			return NULL;
+		}
+		//此时一定接收客户端连接  并且不会阻塞
+		struct sockaddr_in client;
+		memset(&client, 0, sizeof(struct sockaddr_in));
+		socklen_t clientlen = sizeof(struct sockaddr_in);
+		int connfd = accept(sock_lfd, (struct sockaddr*)&client, &clientlen);
+		if (connfd == -1)
+		{
+			return NULL;
+		}
+		else
+		{
+			return new TcpSocket(connfd);
+		}
+	}
 }
 int TcpServer::setListen(unsigned short port)
 {

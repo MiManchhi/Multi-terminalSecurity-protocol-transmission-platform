@@ -447,7 +447,7 @@
     },
     "cpp_user_defines": {},
     "cpp_user_undefines": [],
-    "c_compiler": "g++",
+    "c_compiler": "gcc",
     "c_compiler_defines": {
       "__DBL_MIN_EXP__": "(-1021)",
       "__UINT_LEAST16_MAX__": "0xffff",

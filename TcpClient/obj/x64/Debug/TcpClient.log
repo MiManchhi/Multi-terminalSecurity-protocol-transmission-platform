@@ -4,17 +4,9 @@
   正在验证体系结构
   正在启动远程生成
   正在编译源:
-  main.cpp
-  TcpSocket.cpp
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.cpp(23,5): error : default argument given for parameter 3 of ‘int TcpSocket::connectServer(std::string, short unsigned int, int)’
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.h(23,13): message : previous specification in ‘int TcpSocket::connectServer(std::string, short unsigned int, int)’ here
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.cpp(63,13): error : default argument given for parameter 1 of ‘std::string TcpSocket::recvMsg(int)’
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.h(27,21): message : previous specification in ‘std::string TcpSocket::recvMsg(int)’ here
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.cpp(66,1): warning : no return statement in function returning non-void [-Wreturn-type]
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.cpp(66,1): warning :    66 | }
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.cpp(66,1): warning :       | ^
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.cpp(68,5): error : default argument given for parameter 2 of ‘int TcpSocket::sendMsg(std::string, int)’
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.h(25,13): message : previous specification in ‘int TcpSocket::sendMsg(std::string, int)’ here
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.cpp(72,1): warning : no return statement in function returning non-void [-Wreturn-type]
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.cpp(72,1): warning :    72 | }
-D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpSocket.cpp(72,1): warning :       | ^
+  TcpClientMain.cpp
+D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpClientMain.cpp(24,21): warning : unused variable ‘recvLen’ [-Wunused-variable]
+D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpClientMain.cpp(24,21): warning :    24 |                 int recvLen = -1;
+D:\VisualStudio_program\多端安全协议传输平台\TcpClient\TcpClientMain.cpp(24,21): warning :       |                     ^~~~~~~
+  正在链接对象
+  TcpClient.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\TcpClient\bin\x64\Debug\TcpClient.out
