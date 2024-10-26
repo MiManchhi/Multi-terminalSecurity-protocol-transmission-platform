@@ -3,6 +3,24 @@
   "WorkspaceRootPath": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8222C27-1596-47AE-B8D7-BD86E84CFABF}|..\\connectPool\\connectPool.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\SocketPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186CE6D3-7C09-4D08-8A7F-2513E69A0970}|..\\threadpoll\\threadpoll.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\threadpoll\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186CE6D3-7C09-4D08-8A7F-2513E69A0970}|..\\threadpoll\\threadpoll.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\threadpoll\\TaskQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8222C27-1596-47AE-B8D7-BD86E84CFABF}|..\\connectPool\\connectPool.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8222C27-1596-47AE-B8D7-BD86E84CFABF}|..\\connectPool\\connectPool.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\TaskQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8222C27-1596-47AE-B8D7-BD86E84CFABF}|..\\connectPool\\connectPool.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD335857-8ED2-45B3-A056-D1FE47DCD691}|..\\TcpClient\\TcpClient.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpClientMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -10,15 +28,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1F1FD77-7E31-4E49-AE90-2F25864A0D02}|..\\TcpServer\\TcpServer.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpServer\\TcpServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD335857-8ED2-45B3-A056-D1FE47DCD691}|..\\TcpClient\\TcpClient.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F1FD77-7E31-4E49-AE90-2F25864A0D02}|..\\TcpServer\\TcpServer.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpServer\\TcpSocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD335857-8ED2-45B3-A056-D1FE47DCD691}|..\\TcpClient\\TcpClient.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpSocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 247,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,12 +60,81 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskQueue.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\threadpoll\\TaskQueue.cpp",
+              "RelativeDocumentMoniker": "..\\threadpoll\\TaskQueue.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\threadpoll\\TaskQueue.cpp",
+              "RelativeToolTip": "..\\threadpoll\\TaskQueue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T10:47:45.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\threadpoll\\main.cpp",
+              "RelativeDocumentMoniker": "..\\threadpoll\\main.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\threadpoll\\main.cpp",
+              "RelativeToolTip": "..\\threadpoll\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T10:47:40.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskQueue.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\TaskQueue.cpp",
+              "RelativeDocumentMoniker": "..\\connectPool\\TaskQueue.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\TaskQueue.cpp",
+              "RelativeToolTip": "..\\connectPool\\TaskQueue.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T10:36:50.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SocketPool.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\SocketPool.cpp",
+              "RelativeDocumentMoniker": "..\\connectPool\\SocketPool.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\SocketPool.cpp",
+              "RelativeToolTip": "..\\connectPool\\SocketPool.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T10:36:44.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logger.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\Logger.cpp",
+              "RelativeDocumentMoniker": "..\\connectPool\\Logger.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\Logger.cpp",
+              "RelativeToolTip": "..\\connectPool\\Logger.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T10:36:34.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\main.cpp",
+              "RelativeDocumentMoniker": "..\\connectPool\\main.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\main.cpp",
+              "RelativeToolTip": "..\\connectPool\\main.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T10:34:37.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TcpServer.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpServer\\TcpServer.cpp",
               "RelativeDocumentMoniker": "..\\TcpServer\\TcpServer.cpp",
@@ -64,25 +142,23 @@
               "RelativeToolTip": "..\\TcpServer\\TcpServer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:43:51.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:43:51.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "TcpClientMain.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpClientMain.cpp",
               "RelativeDocumentMoniker": "..\\TcpClient\\TcpClientMain.cpp",
               "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpClientMain.cpp",
               "RelativeToolTip": "..\\TcpClient\\TcpClientMain.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:41:44.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:41:44.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpServer\\main.cpp",
               "RelativeDocumentMoniker": "..\\TcpServer\\main.cpp",
@@ -90,44 +166,7 @@
               "RelativeToolTip": "..\\TcpServer\\main.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:40:31.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TcpSocket.cpp",
-              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpServer\\TcpSocket.cpp",
-              "RelativeDocumentMoniker": "..\\TcpServer\\TcpSocket.cpp",
-              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpServer\\TcpSocket.cpp",
-              "RelativeToolTip": "..\\TcpServer\\TcpSocket.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8BAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:20:34.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TcpSocket.cpp",
-              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpSocket.cpp",
-              "RelativeDocumentMoniker": "..\\TcpClient\\TcpSocket.cpp",
-              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpSocket.cpp",
-              "RelativeToolTip": "..\\TcpClient\\TcpSocket.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwEwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:11:53.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TcpSocket.h",
-              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpSocket.h",
-              "RelativeDocumentMoniker": "..\\TcpClient\\TcpSocket.h",
-              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpSocket.h",
-              "RelativeToolTip": "..\\TcpClient\\TcpSocket.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-24T12:11:45.605Z"
+              "WhenOpened": "2024-10-24T12:40:31.73Z"
             }
           ]
         },
@@ -142,6 +181,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",

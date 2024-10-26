@@ -1,0 +1,12 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.220.134”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  shm1.c
+  shm2.c
+  正在链接对象
+/usr/bin/ld : error : /home/myubuntu/projects/Study/obj/x64/Debug/shm2.o: in function `main':
+D:\VisualStudio_program\多端安全协议传输平台\Study\shm2.c(9): error : multiple definition of `main'; /home/myubuntu/projects/Study/obj/x64/Debug/shm1.o:/home/myubuntu/projects/Study/shm1.c:9: first defined here
+collect2 : error : ld returned 1 exit status

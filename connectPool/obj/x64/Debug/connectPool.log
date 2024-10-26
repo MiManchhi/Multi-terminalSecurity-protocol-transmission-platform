@@ -1,0 +1,37 @@
+﻿  正在清理远程项目目录
+  正在验证源
+  正在将源远程复制到“192.168.220.134”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  Logger.cpp
+  main.cpp
+  SocketPool.cpp
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.h(23,13): warning : ‘SocketPool::m_nodeNumber’ will be initialized after [-Wreorder]
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.h(23,13): warning :    23 |         int m_nodeNumber;
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.h(23,13): warning :       |             ^~~~~~~~~~~~
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.h(21,16): warning : ‘std::string SocketPool::m_ip’ [-Wreorder]
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.h(21,16): warning :    21 |         string m_ip;                            // 服务器IP
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.h(21,16): warning :       |                ^~~~
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.cpp(5,1): warning : when initialized here [-Wreorder]
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.cpp(50,46): warning : conversion from ‘std::queue<TcpSocket*>::size_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.cpp(50,46): warning :    50 |                 m_nodeNumber = m_list.size() + 1;
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.cpp(50,46): warning :       |                                ~~~~~~~~~~~~~~^~~
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.cpp(80,27): warning : comparison of integer expressions of different signedness: ‘std::queue<TcpSocket*>::size_type’ {aka ‘long unsigned int’} and ‘int’ [-Wsign-compare]
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.cpp(80,27): warning :    80 |         if (m_list.size() >= m_nodeNumber)
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\SocketPool.cpp(80,27): warning :       |             ~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+  TaskQueue.cpp
+  TcpSocket.cpp
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\TcpSocket.cpp(75,47): warning : conversion from ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\TcpSocket.cpp(75,47): warning :    75 |                 int dataLen = sendData.size() + 4;
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\TcpSocket.cpp(75,47): warning :       |                               ~~~~~~~~~~~~~~~~^~~
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\TcpSocket.cpp(85,49): warning : conversion from ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} to ‘uint32_t’ {aka ‘unsigned int’} may change value [-Wconversion]
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\TcpSocket.cpp(85,49): warning :    85 |                 int netlen = htonl(sendData.size());
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\TcpSocket.cpp(85,49): warning :       |                                    ~~~~~~~~~~~~~^~
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\TcpSocket.cpp(407,38): warning : conversion from ‘size_t’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\TcpSocket.cpp(407,38): warning :   407 |                         return count - nleft;
+D:\VisualStudio_program\多端安全协议传输平台\connectPool\TcpSocket.cpp(407,38): warning :       |                                ~~~~~~^~~~~~~
+  ThreadPool.cpp
+  正在链接对象
+  connectPool.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\connectPool\bin\x64\Debug\connectPool.out

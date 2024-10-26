@@ -1,4 +1,5 @@
-﻿  正在验证源
+﻿  正在清理远程项目目录
+  正在验证源
   正在将源远程复制到“192.168.220.134”
   正在验证体系结构
   正在验证体系结构
@@ -8,5 +9,19 @@
 D:\VisualStudio_program\多端安全协议传输平台\TcpServer\main.cpp(26,1): warning : no return statement in function returning non-void [-Wreturn-type]
 D:\VisualStudio_program\多端安全协议传输平台\TcpServer\main.cpp(26,1): warning :    26 | }
 D:\VisualStudio_program\多端安全协议传输平台\TcpServer\main.cpp(26,1): warning :       | ^
+  TcpServer.cpp
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.cpp(51,1): warning : control reaches end of non-void function [-Wreturn-type]
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.cpp(51,1): warning :    51 | }
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpServer.cpp(51,1): warning :       | ^
+  TcpSocket.cpp
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(132,47): warning : conversion from ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(132,47): warning :   132 |                 int dataLen = sendData.size() + 4;
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(132,47): warning :       |                               ~~~~~~~~~~~~~~~~^~~
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(142,49): warning : conversion from ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} to ‘uint32_t’ {aka ‘unsigned int’} may change value [-Wconversion]
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(142,49): warning :   142 |                 int netlen = htonl(sendData.size());
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(142,49): warning :       |                                    ~~~~~~~~~~~~~^~
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(369,38): warning : conversion from ‘size_t’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(369,38): warning :   369 |                         return count - nleft;
+D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(369,38): warning :       |                                ~~~~~~^~~~~~~
   正在链接对象
   TcpServer.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\TcpServer\bin\x64\Debug\TcpServer.out
