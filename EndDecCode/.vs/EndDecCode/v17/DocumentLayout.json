@@ -3,6 +3,43 @@
   "WorkspaceRootPath": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A622C3F-B14A-4CA2-9D9A-B06BC0A4581D}|..\\TestForWindows\\TestForWindows.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TestForWindows\\sha1test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA53290-DB88-47C0-829D-F43B51F1D129}|..\\ShareMemory\\ShareMemory.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\SecKeyShm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA53290-DB88-47C0-829D-F43B51F1D129}|..\\ShareMemory\\ShareMemory.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\BaseShm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA53290-DB88-47C0-829D-F43B51F1D129}|..\\ShareMemory\\ShareMemory.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A904779D-D8D7-49B9-9583-A53B38F18212}|..\\Study\\Study.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\Study\\hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE3729-EA30-47B8-AFA3-454FBE9DBE82}|EndDecCode.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\RespondFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93FE3729-EA30-47B8-AFA3-454FBE9DBE82}|EndDecCode.vcxproj|solutionrelative:RespondFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE3729-EA30-47B8-AFA3-454FBE9DBE82}|EndDecCode.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\RequestCodec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93FE3729-EA30-47B8-AFA3-454FBE9DBE82}|EndDecCode.vcxproj|solutionrelative:RequestCodec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE3729-EA30-47B8-AFA3-454FBE9DBE82}|EndDecCode.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\CodecFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93FE3729-EA30-47B8-AFA3-454FBE9DBE82}|EndDecCode.vcxproj|solutionrelative:CodecFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA53290-DB88-47C0-829D-F43B51F1D129}|..\\ShareMemory\\ShareMemory.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\BaseShm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA53290-DB88-47C0-829D-F43B51F1D129}|..\\ShareMemory\\ShareMemory.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\SecKeyShm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FE3729-EA30-47B8-AFA3-454FBE9DBE82}|EndDecCode.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\msg.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{93FE3729-EA30-47B8-AFA3-454FBE9DBE82}|EndDecCode.vcxproj|solutionrelative:msg.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8222C27-1596-47AE-B8D7-BD86E84CFABF}|..\\connectPool\\connectPool.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\SocketPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -37,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 247,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,8 +97,149 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sha1test.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TestForWindows\\sha1test.cpp",
+              "RelativeDocumentMoniker": "..\\TestForWindows\\sha1test.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TestForWindows\\sha1test.cpp",
+              "RelativeToolTip": "..\\TestForWindows\\sha1test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T08:46:51.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hello.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\Study\\hello.cpp",
+              "RelativeDocumentMoniker": "..\\Study\\hello.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\Study\\hello.cpp",
+              "RelativeToolTip": "..\\Study\\hello.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T07:23:36.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RespondFactory.h",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\RespondFactory.h",
+              "RelativeDocumentMoniker": "RespondFactory.h",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\RespondFactory.h",
+              "RelativeToolTip": "RespondFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T07:00:58.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestCodec.h",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\RequestCodec.h",
+              "RelativeDocumentMoniker": "RequestCodec.h",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\RequestCodec.h",
+              "RelativeToolTip": "RequestCodec.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T07:00:53.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CodecFactory.h",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\CodecFactory.h",
+              "RelativeDocumentMoniker": "CodecFactory.h",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\CodecFactory.h",
+              "RelativeToolTip": "CodecFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T07:00:44.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\main.cpp",
+              "RelativeDocumentMoniker": "..\\ShareMemory\\main.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\main.cpp",
+              "RelativeToolTip": "..\\ShareMemory\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T06:55:02.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecKeyShm.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\SecKeyShm.cpp",
+              "RelativeDocumentMoniker": "..\\ShareMemory\\SecKeyShm.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\SecKeyShm.cpp",
+              "RelativeToolTip": "..\\ShareMemory\\SecKeyShm.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T06:54:02.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecKeyShm.h",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\SecKeyShm.h",
+              "RelativeDocumentMoniker": "..\\ShareMemory\\SecKeyShm.h",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\SecKeyShm.h",
+              "RelativeToolTip": "..\\ShareMemory\\SecKeyShm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T06:52:16.794Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BaseShm.cpp",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\BaseShm.cpp",
+              "RelativeDocumentMoniker": "..\\ShareMemory\\BaseShm.cpp",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\BaseShm.cpp",
+              "RelativeToolTip": "..\\ShareMemory\\BaseShm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T06:10:44.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseShm.h",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\BaseShm.h",
+              "RelativeDocumentMoniker": "..\\ShareMemory\\BaseShm.h",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ShareMemory\\BaseShm.h",
+              "RelativeToolTip": "..\\ShareMemory\\BaseShm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T06:03:48.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "msg.proto",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\msg.proto",
+              "RelativeDocumentMoniker": "msg.proto",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\EndDecCode\\msg.proto",
+              "RelativeToolTip": "msg.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-26T14:54:48.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "TaskQueue.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\threadpoll\\TaskQueue.cpp",
               "RelativeDocumentMoniker": "..\\threadpoll\\TaskQueue.cpp",
@@ -73,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\threadpoll\\main.cpp",
               "RelativeDocumentMoniker": "..\\threadpoll\\main.cpp",
@@ -85,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "TaskQueue.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\TaskQueue.cpp",
               "RelativeDocumentMoniker": "..\\connectPool\\TaskQueue.cpp",
@@ -97,20 +275,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "SocketPool.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\SocketPool.cpp",
               "RelativeDocumentMoniker": "..\\connectPool\\SocketPool.cpp",
               "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\SocketPool.cpp",
               "RelativeToolTip": "..\\connectPool\\SocketPool.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-26T10:36:44.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T10:36:44.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Logger.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\Logger.cpp",
               "RelativeDocumentMoniker": "..\\connectPool\\Logger.cpp",
@@ -122,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\connectPool\\main.cpp",
               "RelativeDocumentMoniker": "..\\connectPool\\main.cpp",
@@ -134,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "TcpServer.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpServer\\TcpServer.cpp",
               "RelativeDocumentMoniker": "..\\TcpServer\\TcpServer.cpp",
@@ -146,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "TcpClientMain.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpClient\\TcpClientMain.cpp",
               "RelativeDocumentMoniker": "..\\TcpClient\\TcpClientMain.cpp",
@@ -158,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpServer\\main.cpp",
               "RelativeDocumentMoniker": "..\\TcpServer\\main.cpp",

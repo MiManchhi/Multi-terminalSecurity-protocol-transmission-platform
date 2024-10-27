@@ -1,0 +1,1 @@
+cd /home/myubuntu/projects/Study/; g++ -o "/home/myubuntu/projects/Study/bin/x64/Debug/Study.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/myubuntu/projects/Study/obj/x64/Debug/hello.o /home/myubuntu/projects/Study/obj/x64/Debug/shm1.o /home/myubuntu/projects/Study/obj/x64/Debug/shm2.o
