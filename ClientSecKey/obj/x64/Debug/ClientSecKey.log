@@ -1,13 +1,30 @@
 ﻿  正在验证源
   正在将源远程复制到“192.168.220.134”
+  正在验证源
+  正在验证源
+  正在将源远程复制到“192.168.220.134”
+  正在验证源
+  正在将源远程复制到“192.168.220.134”
+  正在将源远程复制到“192.168.220.134”
+  正在验证源
+  正在将源远程复制到“192.168.220.134”
   正在验证体系结构
   正在验证体系结构
   正在启动远程生成
   正在编译源:
   ClientOP.cpp
-D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\ClientOP.cpp(17,1): warning : no return statement in function returning non-void [-Wreturn-type]
-D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\ClientOP.cpp(17,1): warning :    17 | }
-D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\ClientOP.cpp(17,1): warning :       | ^
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning : conversion from ‘long int’ to ‘google::protobuf::int32’ {aka ‘int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :   360 |     return strtol(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :       |            ~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning : conversion from ‘long unsigned int’ to ‘google::protobuf::uint32’ {aka ‘unsigned int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :   367 |     return strtoul(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :       |            ~~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :   127 |     limit += ptr - buffer_end_;
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :       |     ~~~~~~^~~~~~~~~~~~~~~~~~~~
+D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\ClientOP.cpp(29,1): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\ClientOP.cpp(29,1): warning :    29 | }
+D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\ClientOP.cpp(29,1): warning :       | ^
   main.cpp
   正在链接对象
   ClientSecKey.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\bin\x64\Debug\ClientSecKey.out
