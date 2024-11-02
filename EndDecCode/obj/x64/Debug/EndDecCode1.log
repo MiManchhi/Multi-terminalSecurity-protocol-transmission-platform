@@ -1,0 +1,38 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.220.134”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  Codec.cpp
+  CodecFactory.cpp
+  msg.pb.cc
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : google/protobuf/port_def.inc: 没有那个文件或目录
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :    10 | #include <google/protobuf/port_def.inc>
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :       |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : compilation terminated.
+  RequestCodec.cpp
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : google/protobuf/port_def.inc: 没有那个文件或目录
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :    10 | #include <google/protobuf/port_def.inc>
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :       |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : compilation terminated.
+  RequestFactory.cpp
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : google/protobuf/port_def.inc: 没有那个文件或目录
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :    10 | #include <google/protobuf/port_def.inc>
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :       |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : compilation terminated.
+  RespondCodec.cpp
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : google/protobuf/port_def.inc: 没有那个文件或目录
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :    10 | #include <google/protobuf/port_def.inc>
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :       |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : compilation terminated.
+  RespondFactory.cpp
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : google/protobuf/port_def.inc: 没有那个文件或目录
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :    10 | #include <google/protobuf/port_def.inc>
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :       |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : compilation terminated.
+  test.cpp
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : google/protobuf/port_def.inc: 没有那个文件或目录
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :    10 | #include <google/protobuf/port_def.inc>
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error :       |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h(10,10): error : compilation terminated.

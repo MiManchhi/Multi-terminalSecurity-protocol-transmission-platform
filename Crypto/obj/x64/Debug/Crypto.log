@@ -1,0 +1,12 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.220.134”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  main.cpp
+D:\VisualStudio_program\多端安全协议传输平台\Crypto\main.cpp(55,26): warning : catching polymorphic type ‘class std::exception’ by value [-Wcatch-value=]
+D:\VisualStudio_program\多端安全协议传输平台\Crypto\main.cpp(55,26): warning :    55 |         catch (exception e)
+D:\VisualStudio_program\多端安全协议传输平台\Crypto\main.cpp(55,26): warning :       |                          ^
+  正在链接对象
+  Crypto.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\Crypto\bin\x64\Debug\Crypto.out

@@ -1,4 +1,4 @@
-﻿  正在清理远程项目目录
+﻿D:\Program Files\Microsoft Visual Studio Enterprise 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(D:\VisualStudio_program\多端安全协议传输平台\Study\obj\x64\Debug\)包含从另一个项目(Study.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
   正在验证源
   正在将源远程复制到“192.168.220.134”
   正在验证体系结构
@@ -9,4 +9,4 @@
   shm1.c
   shm2.c
   正在链接对象
-  Study.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\Study\bin\x64\Debug\Study.out
+  Study.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\Study\bin\x64\Debug\TestForLinux.out

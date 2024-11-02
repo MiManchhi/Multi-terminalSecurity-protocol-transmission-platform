@@ -1,0 +1,9 @@
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\Codec.cpp|638649473275958643|/home/myubuntu/projects/EndDecCode/||g++ -c -x c++ /home/myubuntu/projects/EndDecCode/Codec.cpp -g2 -gdwarf-2 -o "/home/myubuntu/projects/EndDecCode/obj/x64/Debug/Codec.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\CodecFactory.cpp|638652209403221148|/home/myubuntu/projects/EndDecCode/||g++ -c -x c++ /home/myubuntu/projects/EndDecCode/CodecFactory.cpp -g2 -gdwarf-2 -o "/home/myubuntu/projects/EndDecCode/obj/x64/Debug/CodecFactory.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\Codec.h|638649471133371844|/home/myubuntu/projects/EndDecCode/|| 
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\CodecFactory.h|638649619401549681|/home/myubuntu/projects/EndDecCode/|| 
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\msg.pb.h|638649465661749796|/home/myubuntu/projects/EndDecCode/|| 
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\RequestCodec.h|638649508483725818|/home/myubuntu/projects/EndDecCode/|| 
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\RequestFactory.h|638649625160305281|/home/myubuntu/projects/EndDecCode/|| 
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\RespondCodec.h|638649512904171192|/home/myubuntu/projects/EndDecCode/|| 
+D:\VisualStudio_program\多端安全协议传输平台\EndDecCode\RespondFactory.h|638649632386799214|/home/myubuntu/projects/EndDecCode/|| 
