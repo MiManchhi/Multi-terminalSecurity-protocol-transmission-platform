@@ -1,0 +1,13 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.220.134”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  ClientOP.cpp
+D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\ClientOP.cpp(17,1): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\ClientOP.cpp(17,1): warning :    17 | }
+D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\ClientOP.cpp(17,1): warning :       | ^
+  main.cpp
+  正在链接对象
+  ClientSecKey.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\ClientSecKey\bin\x64\Debug\ClientSecKey.out

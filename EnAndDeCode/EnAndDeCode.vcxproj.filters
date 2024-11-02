@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{b5081ead-d76b-43a7-bb62-3d0c75e0ca45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{ef69cfff-0479-4700-9d05-ba011551659a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{3aa48b6d-4327-4e98-b748-199ed6ebd6a7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="Codec.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CodecFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="msg.pb.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RequestCodec.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RequestFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RespondCodec.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RespondFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Codec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CodecFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="msg.pb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RequestCodec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RequestFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RespondCodec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RespondFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="msg.proto">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>

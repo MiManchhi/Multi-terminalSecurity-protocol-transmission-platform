@@ -1,0 +1,1 @@
+cd /home/myubuntu/projects/ClientSecKey/; g++ -o "/home/myubuntu/projects/ClientSecKey/bin/x64/Debug/ClientSecKey.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/myubuntu/projects/ClientSecKey/obj/x64/Debug/ClientOP.o /home/myubuntu/projects/ClientSecKey/obj/x64/Debug/main.o
