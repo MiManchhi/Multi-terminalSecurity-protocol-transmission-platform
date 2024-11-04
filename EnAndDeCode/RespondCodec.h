@@ -35,7 +35,7 @@ public:
 	~RespondCodec();
 
 private:
-	std::string m_encstr; //需要进行解码的字符串
-	RespondMsg m_msg;  //需要进行编码的原数据
+	std::string m_encstr; //需要进行解码的字符串和编码后的字符串
+	RespondMsg m_msg;  //需要进行编码的原数据和解码后的原数据
 };
 

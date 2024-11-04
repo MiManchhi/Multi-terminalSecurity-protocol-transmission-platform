@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <string>
 #include "ClientOP.h"
 using namespace std;
@@ -6,7 +6,7 @@ using namespace std;
 int usage();
 int main()
 {
-	// ´´½¨¿Í»§¶Ë²Ù×÷Àà¶ÔÏó
+	// åˆ›å»ºå®¢æˆ·ç«¯æ“ä½œç±»å¯¹è±¡
 	ClientOP op("client.json");
 	while (1)
 	{
@@ -14,22 +14,22 @@ int main()
 		switch (sel)
 		{
 		case 1:
-			// ÃØÔ¿Ğ­ÉÌ
+			// ç§˜é’¥åå•†
 			op.seckeyAgree();
 			break;
 		case 2:
 			op.seckeyCheck();
-			// ÃØÔ¿Ğ£Ñé
+			// ç§˜é’¥æ ¡éªŒ
 			break;
 		case 3:
-			// ÃØÔ¿×¢Ïú
+			// ç§˜é’¥æ³¨é”€
 			op.seckeyCancel();
 		default:
 			break;
 
 		}
 	}
-	cout << "¿Í»§¶ËÍË³ö, bye,byte..." << endl;
+	cout << "å®¢æˆ·ç«¯é€€å‡º, bye,byte..." << endl;
 	return 0;
 }
 
@@ -38,14 +38,14 @@ int usage()
 	int nSel = -1;
 	printf("\n  /*************************************************************/");
 	printf("\n  /*************************************************************/");
-	printf("\n  /*     1.ÃÜÔ¿Ğ­ÉÌ                                            */");
-	printf("\n  /*     2.ÃÜÔ¿Ğ£Ñé                                            */");
-	printf("\n  /*     3.ÃÜÔ¿×¢Ïú                                            */");
-	printf("\n  /*     4.ÃÜÔ¿²é¿´                                            */");
-	printf("\n  /*     0.ÍË³öÏµÍ³                                            */");
+	printf("\n  /*     1.å¯†é’¥åå•†                                            */");
+	printf("\n  /*     2.å¯†é’¥æ ¡éªŒ                                            */");
+	printf("\n  /*     3.å¯†é’¥æ³¨é”€                                            */");
+	printf("\n  /*     4.å¯†é’¥æŸ¥çœ‹                                            */");
+	printf("\n  /*     0.é€€å‡ºç³»ç»Ÿ                                            */");
 	printf("\n  /*************************************************************/");
 	printf("\n  /*************************************************************/");
-	printf("\n\n  Ñ¡Ôñ:");
+	printf("\n\n  é€‰æ‹©:");
 
 	scanf("%d", &nSel);
 	while (getchar() != '\n');

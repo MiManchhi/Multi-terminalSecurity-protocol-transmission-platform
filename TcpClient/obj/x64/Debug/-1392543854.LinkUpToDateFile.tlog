@@ -1,1 +1,1 @@
-cd /home/myubuntu/projects/TcpClient/; g++ -o "/home/myubuntu/projects/TcpClient/bin/x64/Debug/TcpClient.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/myubuntu/projects/TcpClient/obj/x64/Debug/TcpClientMain.o /home/myubuntu/projects/TcpClient/obj/x64/Debug/TcpSocket.o
+ar -rsc  "/home/myubuntu/projects/TcpClient/bin/x64/Debug/libTcpClient.a" /home/myubuntu/projects/TcpClient/obj/x64/Debug/TcpClientMain.o /home/myubuntu/projects/TcpClient/obj/x64/Debug/TcpSocket.o

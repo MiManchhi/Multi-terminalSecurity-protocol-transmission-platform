@@ -22,5 +22,5 @@ D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(1
 D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(369,38): warning : conversion from ‘size_t’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
 D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(369,38): warning :   369 |                         return count - nleft;
 D:\VisualStudio_program\多端安全协议传输平台\TcpServer\TcpSocket.cpp(369,38): warning :       |                                ~~~~~~^~~~~~~
-  正在链接对象
-  TcpServer.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\TcpServer\bin\x64\Debug\TcpServer.out
+  正在存档对象
+  TcpServer.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\TcpServer\bin\x64\Debug\libTcpServer.a
