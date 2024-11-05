@@ -3,5 +3,68 @@
   正在验证体系结构
   正在验证体系结构
   正在启动远程生成
+  正在编译源:
+  Codec.cpp
+  CodecFactory.cpp
+  msg.pb.cc
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning : conversion from ‘long int’ to ‘google::protobuf::int32’ {aka ‘int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :   360 |     return strtol(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :       |            ~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning : conversion from ‘long unsigned int’ to ‘google::protobuf::uint32’ {aka ‘unsigned int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :   367 |     return strtoul(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :       |            ~~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :   127 |     limit += ptr - buffer_end_;
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :       |     ~~~~~~^~~~~~~~~~~~~~~~~~~~
+  RequestCodec.cpp
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning : conversion from ‘long int’ to ‘google::protobuf::int32’ {aka ‘int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :   360 |     return strtol(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :       |            ~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning : conversion from ‘long unsigned int’ to ‘google::protobuf::uint32’ {aka ‘unsigned int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :   367 |     return strtoul(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :       |            ~~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :   127 |     limit += ptr - buffer_end_;
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :       |     ~~~~~~^~~~~~~~~~~~~~~~~~~~
+  RequestFactory.cpp
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning : conversion from ‘long int’ to ‘google::protobuf::int32’ {aka ‘int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :   360 |     return strtol(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :       |            ~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning : conversion from ‘long unsigned int’ to ‘google::protobuf::uint32’ {aka ‘unsigned int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :   367 |     return strtoul(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :       |            ~~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :   127 |     limit += ptr - buffer_end_;
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :       |     ~~~~~~^~~~~~~~~~~~~~~~~~~~
+  RespondCodec.cpp
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning : conversion from ‘long int’ to ‘google::protobuf::int32’ {aka ‘int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :   360 |     return strtol(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :       |            ~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning : conversion from ‘long unsigned int’ to ‘google::protobuf::uint32’ {aka ‘unsigned int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :   367 |     return strtoul(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :       |            ~~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :   127 |     limit += ptr - buffer_end_;
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :       |     ~~~~~~^~~~~~~~~~~~~~~~~~~~
+  RespondFactory.cpp
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning : conversion from ‘long int’ to ‘google::protobuf::int32’ {aka ‘int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :   360 |     return strtol(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :       |            ~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning : conversion from ‘long unsigned int’ to ‘google::protobuf::uint32’ {aka ‘unsigned int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :   367 |     return strtoul(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :       |            ~~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :   127 |     limit += ptr - buffer_end_;
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :       |     ~~~~~~^~~~~~~~~~~~~~~~~~~~
+  test.cpp
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning : conversion from ‘long int’ to ‘google::protobuf::int32’ {aka ‘int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :   360 |     return strtol(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(360,18): warning :       |            ~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning : conversion from ‘long unsigned int’ to ‘google::protobuf::uint32’ {aka ‘unsigned int’} may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :   367 |     return strtoul(nptr, endptr, base);
+/usr/local/protobuf/include/google/protobuf/stubs/strutil.h(367,19): warning :       |            ~~~~~~~^~~~~~~~~~~~~~~~~~~~
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning : conversion from ‘long int’ to ‘int’ may change value [-Wconversion]
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :   127 |     limit += ptr - buffer_end_;
+/usr/local/protobuf/include/google/protobuf/parse_context.h(127,11): warning :       |     ~~~~~~^~~~~~~~~~~~~~~~~~~~
   正在存档对象
   EnAndDeCode.vcxproj -> D:\VisualStudio_program\多端安全协议传输平台\EnAndDeCode\bin\x64\Debug\libEnAndDeCode.a

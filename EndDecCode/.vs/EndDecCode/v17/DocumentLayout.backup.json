@@ -6,22 +6,25 @@
       "AbsoluteMoniker": "D:0:0:{72B63F46-630E-4116-8FF3-8191FDCA0D2A}|..\\ServerSecKey\\ServerSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\ServerOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72B63F46-630E-4116-8FF3-8191FDCA0D2A}|..\\ServerSecKey\\ServerSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\server.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{15F13218-587E-4B97-B1D8-B2377517717C}|..\\ClientSecKey\\ClientSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\ClientOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72B63F46-630E-4116-8FF3-8191FDCA0D2A}|..\\ServerSecKey\\ServerSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{72B63F46-630E-4116-8FF3-8191FDCA0D2A}|..\\ServerSecKey\\ServerSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\ServerOP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1F1FD77-7E31-4E49-AE90-2F25864A0D02}|..\\TcpServer\\TcpServer.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\TcpServer\\TcpServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F13218-587E-4B97-B1D8-B2377517717C}|..\\ClientSecKey\\ClientSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\ClientOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{72B63F46-630E-4116-8FF3-8191FDCA0D2A}|..\\ServerSecKey\\ServerSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F13218-587E-4B97-B1D8-B2377517717C}|..\\ClientSecKey\\ClientSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\ClientOP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{15F13218-587E-4B97-B1D8-B2377517717C}|..\\ClientSecKey\\ClientSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\client.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15F13218-587E-4B97-B1D8-B2377517717C}|..\\ClientSecKey\\ClientSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F13218-587E-4B97-B1D8-B2377517717C}|..\\ClientSecKey\\ClientSecKey.vcxproj|D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\ClientOP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 247,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,16 +62,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "server.json",
-              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\server.json",
-              "RelativeDocumentMoniker": "..\\ServerSecKey\\server.json",
-              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\server.json",
-              "RelativeToolTip": "..\\ServerSecKey\\server.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-03T11:35:08.919Z",
+              "DocumentIndex": 2,
+              "Title": "ServerOP.h",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\ServerOP.h",
+              "RelativeDocumentMoniker": "..\\ServerSecKey\\ServerOP.h",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\ServerOP.h",
+              "RelativeToolTip": "..\\ServerSecKey\\ServerOP.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T12:03:51.053Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "client.json",
+              "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\client.json",
+              "RelativeDocumentMoniker": "..\\ClientSecKey\\client.json",
+              "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\client.json",
+              "RelativeToolTip": "..\\ClientSecKey\\client.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T11:29:24.491Z"
             },
             {
               "$type": "Document",
@@ -80,25 +95,24 @@
               "RelativeToolTip": "..\\TcpServer\\TcpServer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-03T11:33:36.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T11:33:36.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ClientOP.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\ClientOP.cpp",
               "RelativeDocumentMoniker": "..\\ClientSecKey\\ClientOP.cpp",
               "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\ClientOP.cpp",
               "RelativeToolTip": "..\\ClientSecKey\\ClientOP.cpp",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwHQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-03T11:33:11.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ClientOP.h",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\ClientOP.h",
               "RelativeDocumentMoniker": "..\\ClientSecKey\\ClientOP.h",
@@ -106,8 +120,7 @@
               "RelativeToolTip": "..\\ClientSecKey\\ClientOP.h",
               "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-03T11:33:08.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T11:33:08.644Z"
             },
             {
               "$type": "Document",
@@ -117,10 +130,9 @@
               "RelativeDocumentMoniker": "..\\ClientSecKey\\main.cpp",
               "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ClientSecKey\\main.cpp",
               "RelativeToolTip": "..\\ClientSecKey\\main.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-03T11:30:24.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T11:30:24.731Z"
             },
             {
               "$type": "Document",
@@ -130,23 +142,22 @@
               "RelativeDocumentMoniker": "..\\ServerSecKey\\ServerOP.cpp",
               "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\ServerOP.cpp",
               "RelativeToolTip": "..\\ServerSecKey\\ServerOP.cpp",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAANoAAAAAAAAAAAAswOYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-03T11:30:01.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\main.cpp",
               "RelativeDocumentMoniker": "..\\ServerSecKey\\main.cpp",
               "ToolTip": "D:\\VisualStudio_program\\\u591A\u7AEF\u5B89\u5168\u534F\u8BAE\u4F20\u8F93\u5E73\u53F0\\ServerSecKey\\main.cpp",
               "RelativeToolTip": "..\\ServerSecKey\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-03T11:29:59.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T11:29:59.224Z"
             }
           ]
         },

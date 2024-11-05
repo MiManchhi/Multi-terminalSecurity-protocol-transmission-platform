@@ -4,7 +4,9 @@
 #include<openssl/sha.h>
 #include<openssl/rsa.h>
 #include<openssl/pem.h>
+#include<vector>
 
+using namespace std;
 extern "C"
 {
 #include <openssl/applink.c>
@@ -51,9 +53,20 @@ void rsaTest()
 	fclose(fp);
 }
 
+void test()
+{
+	vector<char> cs = { '~','!','@','#','$','%','^','&','*','(',')',
+'_','+','{','}','|','\\','\'',';','[',']' };
+	for (auto val : cs)
+	{
+		cout << val << endl;
+	}
+}
+
 int main()
 {
-	rsaTest();
+	test();
+	//rsaTest();
 	//sha1test();
 	return 0;
 }

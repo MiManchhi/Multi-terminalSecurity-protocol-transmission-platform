@@ -1,5 +1,7 @@
 ﻿#pragma once
 #include <map>
+#include <condition_variable>
+#include <mutex>
 #include "TcpServer.h"
 #include "msg.pb.h"
 
@@ -18,7 +20,7 @@ public:
 	//friend void* workHard(void* arg);
 	
 	// 秘钥协商
-	string seckeyAgree(RequestMsg* reqMsg);
+	string seckeyAgree(RequestMsg* req);
 	~ServerOP();
 
 private:
@@ -29,6 +31,8 @@ private:
 	unsigned short m_port;  //端口号
 	map<pthread_t, TcpSocket*> m_list;   //一个线程对应一个客户端的请求操作
 	TcpServer* m_server = NULL;  //Tcp通信类
+	std::mutex m_mutex;  //用于保护m_list的互斥锁
+	std::condition_variable m_condVar;    //条件变量控制线程同步
 };
 
 //void* workHard(void* arg);

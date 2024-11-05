@@ -18,9 +18,18 @@ ClientOP::ClientOP(string jsonFile)
 {
 	//解析json文件  读文件->Value
 	ifstream ifs(jsonFile);
+	if (!ifs.is_open())
+	{
+		std::cerr << "无法打开配置文件:" << jsonFile << std::endl;
+		return;
+	}
 	Reader r;
 	Value root;
-	r.parse(ifs, root);
+	if (!r.parse(ifs, root))
+	{
+		std::cerr << "解析JSON失败：" << r.getFormattedErrorMessages() << std::endl;
+		return;
+	}
 	//将root中的键值对vale值取出
 	m_info.ServerID = root["ServerID"].asString();
 	m_info.ClientID = root["ClientID"].asString();
@@ -34,9 +43,14 @@ ClientOP::~ClientOP()
 }
 
 /*
-客户端生成密钥对，将公钥（数据）进行签名并经过哈希运算后发送给服务器
+客户端生成密钥对(非对称加密)，将公钥（数据）进行签名并经过哈希运算后发送给服务器
 服务器使用得到的公钥将对称加密的密钥（数据）加密后发送给客户端
 客户端使用私钥将对称加密的密钥解密拿到对称加密的密钥
+*/
+/*
+客户端生成的密钥对用来进行签名（私钥加密公钥解密）和加密解密，客户端将公钥（和签名）发送给服务器，服务器使用公钥
+进行签名验证，再使用公钥加密对称加密的密钥，发送给客户端，客户端使用私钥解密得到对称加密的密钥
+只要私钥不被泄露加密就是安全的，公钥就是要让别人知道的
 */
 bool ClientOP::seckeyAgree()
 {
